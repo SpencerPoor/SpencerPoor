@@ -44,8 +44,7 @@ Description:
 
 ## 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/spencer-poor/)
-- [Email](speneth1@gmail.com)
-
+- speneth1@gmail.com
 
 ## When I'm not coding
  📱 I'm following the latest breakthroughs in system-on-chip efficiency
