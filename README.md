@@ -31,6 +31,10 @@
 
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
+## 📊 GitHub Stats
+![Spencer's GitHub Activity](https://github-readme-stats.vercel.app/api?username=SpencerPoor&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SpencerPoor&theme=radical)
+
 ## 💻 Projects
 ### 🧑‍🌾 Pride Farm https://github.com/pride-land
 **Technologies Used**: 
@@ -41,7 +45,7 @@
 ![Django REST](https://img.shields.io/badge/Django_REST-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Description:**
+### **Description:**
 
 The **Pride Farm web app** is a **full-stack app** designed to provide a platform for the Pride Land Non-Profit Organization to communicate and advertise their farm in Kawasaki, Japan. It's a close collaborative effort between our development team of four and the **Pride Land NPO**. 
 
@@ -59,7 +63,7 @@ Additionally, there is a **companion game called "Prideland Shitake"** which pro
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Description:** 
+### **Description:** 
 
 **HATO** is a full-stack **anonymous messaging platform** that allows users to share their thoughts, jokes and ideas anonymously through the use of two-sided message cards that users can make themselves and share on the platform. Users can manage the cards on their unique user profiles, and leave comments on other users cards, as well as like, dislike, and report cards which can be managed by administrative users.
 
