@@ -32,15 +32,35 @@
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## 💻 Projects
-### 🧑‍🌾 Pride Farm
-**Technologies Used**: TypeScript, Tailwind CSS, React, Django REST, PostgreSQL
+### 🧑‍🌾 Pride Farm https://github.com/pride-land
+**Technologies Used**: 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Django REST](https://img.shields.io/badge/Django_REST-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-Description:
+**Description:**
 
-### 🐦 HATO - Delivering Random Messages
-**Technologies Used**:
+The **Pride Farm web app** is a **full-stack app** designed to provide a platform for the Pride Land Non-Profit Organization to communicate and advertise their farm in Kawasaki, Japan. It's a close collaborative effort between our development team of four and the **Pride Land NPO**. 
 
-Description:
+The app features a user-facing front-end designed to inform the user about the farm's ongoing mission, and can inquire about the farm and submit forms to volunteer directly through the app's respective pages, and that data is sent to a **hidden sister front-end designed exclusively for Pride Land's administration** to manage the website and handle user data.
+
+Additionally, there is a **companion game called "Prideland Shitake"** which provides a fun way for users to pick mushrooms, engaging with one of the physical activities volunteers do at the actual farm.
+
+### 🐦 HATO - Delivering Random Messages https://github.com/hato-cc-legacy
+
+**Technologies Used**: 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Description:** 
+
+**HATO** is a full-stack **anonymous messaging platform** that allows users to share their thoughts, jokes and ideas anonymously through the use of two-sided message cards that users can make themselves and share on the platform. Users can manage the cards on their unique user profiles, and leave comments on other users cards, as well as like, dislike, and report cards which can be managed by administrative users.
 
 ## 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/spencer-poor/)
