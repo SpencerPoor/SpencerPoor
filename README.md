@@ -1,7 +1,7 @@
 # 👋 Hey there, I’m Spencer Poor!
-- 🇯🇵 I'm a software engineer currently in Japan with a passion for creating clean efficient code that makes an impact.
+- 🇺🇸 I'm a software engineer in the US with a passion for creating clean efficient code that makes an impact.
 
-- 💻 I'm currently contributing to an NPO project called Pride Farm, and I'm also contributing to other open source projects, in addition to some personal ones.
+- 💻 I regularly contribute code to open source projects like the Mozilla Firefox codebase, in addition to some personal projects.
   I love tackling new challenges and building projects that make an impact.
 
 ## 🛠 Skills
@@ -16,6 +16,7 @@
 
 - **Frameworks**:
 
+  ![React Native](https://img.shields.io/badge/React%20Native-darkblue?logo=react&logoColor=white&style=for-the-badge)
   ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
   ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
   ![Django REST](https://img.shields.io/badge/Django_REST-092E20?style=for-the-badge&logo=django&logoColor=white)
