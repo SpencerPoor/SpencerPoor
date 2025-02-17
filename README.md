@@ -7,8 +7,8 @@
 ## 🛠 Skills
 - **Languages**:
 
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
   ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -35,6 +35,20 @@
 ## 📊 GitHub Stats
 ![Spencer's GitHub Activity](https://github-readme-stats.vercel.app/api?username=SpencerPoor&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SpencerPoor&theme=radical)
+
+## 👨‍💻 Volunteer Code Work
+
+### Mozilla Firefox
+From my support of Mozilla's mission and being an avid user of their products, I regularly contribute code to Mozilla's Firefox web browser codebase to support the growth of the Firefox browser and to learn new insights about working with such a large and storied repository.
+
+I've been assigned to and contributed code to resolve issues such as:
+-Streamlining browser management logic by consolidating duplicated functionality across multiple components
+-Enhancing error reporting for JavaScript evaluation by including line and column information for easier debugging
+-Adding a new assertion method to improve code reliability by ensuring arrays are non-empty when expected
+-Implementing a helper function to simplify the process of verifying whether a browsing context is a top-level context
+
+And other similar functionalities.
+You can view a list of the contributions I've made [here]([url](https://bugzilla.mozilla.org/buglist.cgi?query_format=advanced&emailtype1=exact&emailassigned_to1=1&email1=speneth1%40gmail.com&list_id=17435007)).
 
 ## 💻 Projects
 ### 🧑‍🌾 Pride Farm https://github.com/pride-land
