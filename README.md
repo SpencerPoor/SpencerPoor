@@ -17,9 +17,10 @@
 - **Frameworks**:
 
   ![React Native](https://img.shields.io/badge/React%20Native-darkblue?logo=react&logoColor=white&style=for-the-badge)
-  ![Expo](https://img.shields.io/badge/Expo-black?logo=expo&logoColor=white&style=for-the-badge)
+  ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
   ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-  ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+  ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+  ![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
   ![Django REST](https://img.shields.io/badge/Django_REST-092E20?style=for-the-badge&logo=django&logoColor=white)
   ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
@@ -43,20 +44,48 @@
 From my support of Mozilla's mission and being an avid user of their products, I regularly contribute code to Mozilla's Firefox web browser codebase to support the growth of the Firefox browser and to learn new insights about working with such a large and storied repository.
 
 I've been assigned to and contributed code to resolve issues such as:<br/>
--Streamlining browser management logic by consolidating duplicated functionality across multiple components<br/>
--Enhancing error reporting for JavaScript evaluation by including line and column information for easier debugging<br/>
--Adding a new assertion method to improve code reliability by ensuring arrays are non-empty when expected<br/>
--Implementing a helper function to simplify the process of verifying whether a browsing context is a top-level context
+- Streamlining browser management logic by consolidating duplicated functionality across multiple components<br/>
+- Enhancing error reporting for JavaScript evaluation by including line and column information for easier debugging<br/>
+- Adding a new assertion method to improve code reliability by ensuring arrays are non-empty when expected<br/>
+- Implementing a helper function to simplify the process of verifying whether a browsing context is a top-level context
 
 And other similar functionalities.<br/>
 You can view a list of the contributions I've made [here](https://bugzilla.mozilla.org/buglist.cgi?query_format=advanced&emailtype1=exact&emailassigned_to1=1&email1=speneth1%40gmail.com&list_id=17435007).
 
 ## 💻 Projects
+
+### 📸 Photon
+
+**Technologies Used:**<br/>
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-darkblue?logo=react&logoColor=white&style=for-the-badge)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### **Description:**
+
+**Photon** is an ongoing personal project that aims to create a **cross-platform media-sharing application** designed to streamline the sharing of photos and videos between **iOS devices** and the **Steam Deck handheld device**. Since Apple does not provide a framework to view user media on devices outside of the Apple ecosystem, Photon acts as a bridge between iOS devices and Steam Deck devices, taking advantage of the home-console-like nature of the Steam Deck to augment it into an extension of a user's Apple-oriented media ecosystem. Photon empowers users to access and view their personal media across their iPhone and Steam Deck without relying on complicated manual steps or external services.
+
+Key features include:<br/>
+- The ability to view and browse photos and videos from your iOS Photos library directly on the Steam Deck, streamed from a connected iOS device.<br/>
+- User ability to choose between syncing specific media files or syncing their entire media library for user preference.<br/>
+- User-friendly UI, with the Steam Deck app utilizing an iOS design inspired user interface to promote a seamless cross-platform user experience.
+
+For example, with Photon a user can stream their personal iPhone media to their Steam Deck for viewing when it's docked to a TV. So for frequent Steam Deck users, this negates any inconvenient friction that would come with having to switch TV inputs to a connected Apple TV if a user wants to view their media on the big screen after using their Steam Deck. Or more crucially if the user doesn't own an Apple TV, especially if the user already uses their Steam Deck as their media hub, this negates the need to buy an Apple TV at all if a user doesn't want one.
+
+Currently the project is in the latter part of the iOS companion app build phase, and after the frameworks for facilitating data transfer to the Steam Deck's app are built on the iOS app's side, the next phase will be building the Steam Deck app to receive and display the synced media.
+
 ### 🧑‍🌾 Pride Farm https://github.com/pride-land
-**Technologies Used**: 
+
+**Technologies Used:**<br/>
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django REST](https://img.shields.io/badge/Django_REST-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -71,10 +100,12 @@ Additionally, there is a **companion game called "Prideland Shitake"** which pro
 
 ### 🐦 HATO - Delivering Random Messages https://github.com/hato-cc-legacy
 
-**Technologies Used**: 
+**Technologies Used:**<br/>
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
