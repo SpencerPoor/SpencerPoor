@@ -41,14 +41,14 @@
 ### Mozilla Firefox
 From my support of Mozilla's mission and being an avid user of their products, I regularly contribute code to Mozilla's Firefox web browser codebase to support the growth of the Firefox browser and to learn new insights about working with such a large and storied repository.
 
-I've been assigned to and contributed code to resolve issues such as:
--Streamlining browser management logic by consolidating duplicated functionality across multiple components
--Enhancing error reporting for JavaScript evaluation by including line and column information for easier debugging
--Adding a new assertion method to improve code reliability by ensuring arrays are non-empty when expected
+I've been assigned to and contributed code to resolve issues such as:<br/>
+-Streamlining browser management logic by consolidating duplicated functionality across multiple components<br/>
+-Enhancing error reporting for JavaScript evaluation by including line and column information for easier debugging<br/>
+-Adding a new assertion method to improve code reliability by ensuring arrays are non-empty when expected<br/>
 -Implementing a helper function to simplify the process of verifying whether a browsing context is a top-level context
 
-And other similar functionalities.
-You can view a list of the contributions I've made [here]([url](https://bugzilla.mozilla.org/buglist.cgi?query_format=advanced&emailtype1=exact&emailassigned_to1=1&email1=speneth1%40gmail.com&list_id=17435007)).
+And other similar functionalities.<br/>
+You can view a list of the contributions I've made [here](https://bugzilla.mozilla.org/buglist.cgi?query_format=advanced&emailtype1=exact&emailassigned_to1=1&email1=speneth1%40gmail.com&list_id=17435007).
 
 ## 💻 Projects
 ### 🧑‍🌾 Pride Farm https://github.com/pride-land
