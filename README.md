@@ -17,6 +17,7 @@
 - **Frameworks**:
 
   ![React Native](https://img.shields.io/badge/React%20Native-darkblue?logo=react&logoColor=white&style=for-the-badge)
+  ![Expo](https://img.shields.io/badge/Expo-black?logo=expo&logoColor=white&style=for-the-badge)
   ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
   ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
   ![Django REST](https://img.shields.io/badge/Django_REST-092E20?style=for-the-badge&logo=django&logoColor=white)
