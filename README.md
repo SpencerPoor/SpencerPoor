@@ -1,7 +1,7 @@
 # 👋 Hey there, I’m Spencer Poor!
 - 🇺🇸 I'm a software engineer in the US with a passion for creating clean efficient code that makes an impact.
 
-- 💻 I regularly contribute code to open source projects like the Mozilla Firefox codebase, in addition to some personal projects.
+- 💻 I've contributed code to open source projects like the Mozilla Firefox codebase, in addition to some personal projects.
   I love tackling new challenges and building projects that make an impact.
 
 ## 🛠 Skills
@@ -40,7 +40,7 @@
 ## 👨‍💻 Volunteer Code Work
 
 ### Mozilla Firefox
-From my support of Mozilla's mission and being an avid user of their products, I regularly contribute code to Mozilla's Firefox web browser codebase to support the growth of the Firefox browser and to learn new insights about working with such a large and storied repository.
+From my support of Mozilla's mission and being an avid user of their products, I've contributed code to Mozilla's Firefox web browser codebase to support the growth of the Firefox browser and to learn new insights about working with such a large and storied repository.
 
 I've been assigned to and contributed code to resolve issues such as:<br/>
 - Streamlining browser management logic by consolidating duplicated functionality across multiple components<br/>
