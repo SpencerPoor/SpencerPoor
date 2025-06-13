@@ -33,10 +33,6 @@
 
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## 📊 GitHub Stats
-![Spencer's GitHub Activity](https://github-readme-stats.vercel.app/api?username=SpencerPoor&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SpencerPoor&theme=radical)
-
 ## 👨‍💻 Volunteer Code Work
 
 ### Mozilla Firefox
@@ -118,7 +114,7 @@ Additionally, there is a **companion game called "Prideland Shitake"** which pro
 ## When I'm not coding
  📱 I'm following the latest breakthroughs in system-on-chip efficiency
  
- 🥽 Exploring VR tech developments
+ 🥽 Exploring XR tech developments
  
  🎮 Or relaxing with a game or two
 
